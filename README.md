@@ -22,7 +22,7 @@ An example project of Spring Boot and Clojure
 
 ## Dependencies
 
-### (Leiningen)[https://leiningen.org/]
+### [Leiningen](https://leiningen.org/)
 
 ### Java 8
 
