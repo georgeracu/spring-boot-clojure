@@ -1,4 +1,4 @@
-# sensors-api
+# Spring Boot 2 and Clojure
 
 An example project of Spring Boot and Clojure
 
@@ -15,6 +15,16 @@ An example project of Spring Boot and Clojure
 ### Run the jar
 
 `java -jar target/boot-sensors-api-0.1.0-SNAPSHOT.jar`
+
+### Call the endpoint
+
+`curl http://localhost:8080/hello`
+
+## Dependencies
+
+### (Leiningen)[https://leiningen.org/]
+
+### Java 8
 
 ## License
 
